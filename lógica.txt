@@ -7,14 +7,14 @@ inicio
 1-andar até a geladeira 
 2-abrir a geladeira 
 3-pegar a jarra de água
-4-trazer até o corpo 
+4-trazer até o corpo a jarra
 5-fechar a geladeira
 6-andar até a mesa
 7-colocar a jarra na mesa 
 8-andar até a prateleira
 9-abrir a porta da prateleira
 10-pegar um copo
-11-puxar o copo até o corpo
+11-puxar o copo até o corpo o copo
 12-fechar a porta da parteleira 
 13-andar até a mesa 
 14-colocar o copo na mesa
