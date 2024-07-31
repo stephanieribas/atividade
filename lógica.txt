@@ -14,7 +14,7 @@ inicio
 8-andar até a prateleira
 9-abrir a porta da prateleira
 10-pegar um copo
-11-puxar o copo até o corpo o copo
+11-puxar o copo até o corpo 
 12-fechar a porta da parteleira 
 13-andar até a mesa 
 14-colocar o copo na mesa
