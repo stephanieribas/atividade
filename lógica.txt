@@ -4,25 +4,25 @@ nome: Stephanie Ribas
 atividade: sequência lógica beber água
 
 inicio
-1-andar até a geladeira 
-2-abrir a geladeira 
-3-pegar a jarra de água
-4-trazer até o corpo a jarra
-5-fechar a geladeira
-6-andar até a mesa
-7-colocar a jarra na mesa 
-8-andar até a prateleira
-9-abrir a porta da prateleira
-10-pegar um copo
-11-puxar o copo até o corpo 
-12-fechar a porta da parteleira 
-13-andar até a mesa 
-14-colocar o copo na mesa
-15-pegar a jarra 
-16-colocar água no copo
-17-soltar a jarra 
-18-pegar o copo
-19-levar até a boca 
-20-inclinar o copo
-21-beber o liquido
+1-andar até a geladeira; 
+2-abrir a geladeira; 
+3-pegar a jarra de água;
+4-trazer até o corpo a jarra;
+5-fechar a geladeira;
+6-andar até a mesa;
+7-colocar a jarra na mesa; 
+8-andar até a prateleira;
+9-abrir a porta da prateleira;
+10-pegar um copo;
+11-puxar o copo até o corpo; 
+12-fechar a porta da parteleira; 
+13-andar até a mesa; 
+14-colocar o copo na mesa;
+15-pegar a jarra; 
+16-colocar água no copo;
+17-soltar a jarra; 
+18-pegar o copo;
+19-levar até a boca; 
+20-inclinar o copo;
+21-beber o liquido;
 fim
