@@ -25,4 +25,4 @@ inicio
 19-levar até a boca; 
 20-inclinar o copo;
 21-beber o liquido;
-fim
+fim.
