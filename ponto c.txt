@@ -1,0 +1,29 @@
+atividade 1:
+
+#include <stdio.h>
+ 
+int main() {
+ 
+    printf("Hello World!");
+ 
+    return 0;
+}
+
+atividade 2:
+
+#include <stdio.h>
+ 
+int main() {
+ 
+    int A = 0;
+    int B = 0;
+    int X = 0;
+    
+    scanf("%d\n%d",&A,&B);
+    X = A+B;
+    printf("X = %d\n",X);
+ 
+    return 0;
+}
+
+atividade 3:
