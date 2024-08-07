@@ -8,7 +8,7 @@ int main() {
  
     return 0;
 }
-
+-----------------------------------------------------
 atividade 2:
 
 #include <stdio.h>
@@ -25,7 +25,7 @@ int main() {
  
     return 0;
 }
-
+------------------------------------------------------
 atividade 3:
 
 #include <stdio.h>
@@ -42,7 +42,7 @@ int main() {
  
     return 0;
 }
-
+-----------------------------------------------------
 atividade 4:
 
 #include <stdio.h>
@@ -61,7 +61,7 @@ int main() {
  
     return 0;
 }
-
+-----------------------------------------------------
 atividade 5:
 
 #include <stdio.h>
@@ -79,7 +79,7 @@ int main() {
     
     return 0;
 }
-
+------------------------------------------------------
 atividade 6:
 #include <stdio.h>
  
@@ -102,7 +102,7 @@ int main() {
    
     return 0;
 }
-
+-----------------------------------------------------
 atividade 7:
 
 #include <stdio.h>
@@ -120,3 +120,28 @@ int main() {
     printf("MEDIA = %.1lf\n" ,media);
     
     return 0;
+}
+-------------------------------------------------------
+atividade 8:
+
+#include <stdio.h>
+ 
+int main() {
+ 
+    int A = 0;
+    int B = 0;
+    int C = 0;
+    int D = 0;
+    int DIFERENCA = 0;
+    
+    scanf("%d\n%d\n%d\n%d", &A,&B,&C,&D);
+    DIFERENCA = (A*B - C*D);
+    printf("DIFERENCA = %d\n", DIFERENCA);
+    
+    
+    
+    return 0;
+}
+----------------------------------------------------------
+atividade 9:
+
