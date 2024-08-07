@@ -61,3 +61,62 @@ int main() {
  
     return 0;
 }
+
+atividade 5:
+
+#include <stdio.h>
+ 
+int main() {
+ 
+    int A = 0;
+    int B = 0;
+    int PROD = 0;
+    
+    scanf("%d\n%d", &A, &B);
+    PROD = A*B;
+    
+    printf("PROD = %d\n",PROD);
+    
+    return 0;
+}
+
+atividade 6:
+#include <stdio.h>
+ 
+ 
+   #define pesoa 3.5
+   #define pesob 7.5
+   
+int main() {
+ 
+   
+   double a = 0.0, b = 0.0;
+   double media = 0.0;
+   
+   scanf("%lf\n%lf" ,&a,&b);
+   
+   media = ((a*pesoa)+(b*pesob))/(pesoa+pesob);
+   
+   printf("MEDIA = %.5lf\n", media);
+   
+   
+    return 0;
+}
+
+atividade 7:
+
+#include <stdio.h>
+ 
+ #define PESO_A 2
+ #define PESO_B 3
+ #define PESO_C 5
+ 
+int main() {
+    double a = 0.0, b = 0.0, c = 0.0;
+    double media = 0.0;
+ 
+    scanf("%lf\n%lf\n%lf",&a,&b,&c);
+    media = ((a*PESO_A)+(b*PESO_B)+(c*PESO_C))/(PESO_A+PESO_B+PESO_C);
+    printf("MEDIA = %.1lf\n" ,media);
+    
+    return 0;
